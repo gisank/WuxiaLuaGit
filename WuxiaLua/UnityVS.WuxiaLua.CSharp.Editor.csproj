@@ -84,9 +84,6 @@
     <Reference Include="UnityEditor.OSXStandalone.Extensions">
       <HintPath>Library\UnityAssemblies\UnityEditor.OSXStandalone.Extensions.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEngine.UI">
-      <HintPath>Library\UnityAssemblies\UnityEngine.UI.dll</HintPath>
-    </Reference>
     <Reference Include="Debuger">
       <HintPath>Assets\Plugins\Debuger.dll</HintPath>
     </Reference>
@@ -108,6 +105,7 @@
     <Compile Include="Assets\uLua\Editor\Wrap\ToLua_UnityEngine_Object.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Lua\System\readme.txt" />
     <None Include="Assets\uLua\Examples\04_ScriptsFromFile\ScriptsFromFile01.lua.txt" />
     <None Include="Assets\uLua\Examples\A4_ButtonClick\ReadMe.txt" />
     <None Include="Assets\uLua\Lua\System\readme.txt" />

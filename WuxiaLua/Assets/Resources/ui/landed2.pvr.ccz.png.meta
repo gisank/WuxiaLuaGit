@@ -1,0 +1,440 @@
+fileFormatVersion: 2
+guid: 73c5b248d3f828f48826e3d1e48a7cef
+timeCreated: 1443016355
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: landed2.pvr.ccz_0
+    21300002: landed2.pvr.ccz_1
+    21300004: landed2.pvr.ccz_2
+    21300006: landed2.pvr.ccz_3
+    21300008: landed2.pvr.ccz_4
+    21300010: landed2.pvr.ccz_5
+    21300012: landed2.pvr.ccz_6
+    21300014: landed2.pvr.ccz_7
+    21300016: landed2.pvr.ccz_8
+    21300018: landed2.pvr.ccz_9
+    21300020: landed2.pvr.ccz_10
+    21300022: landed2.pvr.ccz_11
+    21300024: landed2.pvr.ccz_12
+    21300026: landed2.pvr.ccz_13
+    21300028: landed2.pvr.ccz_14
+    21300030: landed2.pvr.ccz_15
+    21300032: landed2.pvr.ccz_16
+    21300034: landed2.pvr.ccz_17
+    21300036: landed2.pvr.ccz_18
+    21300038: landed2.pvr.ccz_19
+    21300040: landed2.pvr.ccz_20
+    21300042: landed2.pvr.ccz_21
+    21300044: landed2.pvr.ccz_22
+    21300046: landed2.pvr.ccz_23
+    21300048: landed2.pvr.ccz_25
+    21300050: landed2.pvr.ccz_26
+    21300052: landed2.pvr.ccz_27
+    21300054: landed2.pvr.ccz_28
+    21300056: landed2.pvr.ccz_29
+    21300058: landed2.pvr.ccz_30
+    21300060: landed2.pvr.ccz_31
+    21300062: landed2.pvr.ccz_32
+    21300064: landed2.pvr.ccz_33
+    21300066: landed2.pvr.ccz_34
+    21300068: landed2.pvr.ccz_35
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: landed2.pvr.ccz_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 398
+        width: 536
+        height: 625
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landed2.pvr.ccz_1
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 875
+        width: 50
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landed2.pvr.ccz_2
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 891
+        width: 51
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landed2.pvr.ccz_3
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 969
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landed2.pvr.ccz_4
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 928
+        width: 109
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landed2.pvr.ccz_5
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 898
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landed2.pvr.ccz_6
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 897
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landed2.pvr.ccz_7
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 898
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landed2.pvr.ccz_8
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 898
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landed2.pvr.ccz_9
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 869
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landed2.pvr.ccz_10
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 869
+        width: 52
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landed2.pvr.ccz_11
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 714
+        width: 21
+        height: 114
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landed2.pvr.ccz_12
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 636
+        width: 131
+        height: 193
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landed2.pvr.ccz_13
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 693
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landed2.pvr.ccz_14
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 532
+        width: 352
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landed2.pvr.ccz_15
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 428
+        width: 352
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landed2.pvr.ccz_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 251
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landed2.pvr.ccz_17
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 279
+        width: 352
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landed2.pvr.ccz_18
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 248
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landed2.pvr.ccz_19
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 251
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landed2.pvr.ccz_20
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 248
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landed2.pvr.ccz_21
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 85
+        width: 129
+        height: 193
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landed2.pvr.ccz_22
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 85
+        width: 129
+        height: 193
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landed2.pvr.ccz_23
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 281
+        width: 352
+        height: 101
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landed2.pvr.ccz_25
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 221
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landed2.pvr.ccz_26
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 234
+        width: 129
+        height: 193
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landed2.pvr.ccz_27
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 234
+        width: 129
+        height: 193
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landed2.pvr.ccz_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 54
+        width: 129
+        height: 193
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landed2.pvr.ccz_29
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 186
+        width: 132
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landed2.pvr.ccz_30
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 102
+        width: 51
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landed2.pvr.ccz_31
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 138
+        width: 123
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landed2.pvr.ccz_32
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 90
+        width: 123
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landed2.pvr.ccz_33
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 6
+        width: 123
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landed2.pvr.ccz_34
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 37
+        width: 123
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landed2.pvr.ccz_35
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 42
+        width: 123
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

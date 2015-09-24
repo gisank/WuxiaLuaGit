@@ -180,6 +180,7 @@ public static class LuaBinding
         
         //custom    
 		_GT(typeof(WWW)),
+        _GT(typeof(WWWForm)),
 		_GT(typeof(Util)),
 		_GT(typeof(AppConst)),
         _GT(typeof(LuaEnumType)),
@@ -244,6 +245,7 @@ public static class LuaBinding
         _GT(typeof(Texture)),
         _GT(typeof(RenderTexture)),
         _GT(typeof(ParticleSystem)),
+        _GT(typeof(AuthCode)),
         
 
         //ngui

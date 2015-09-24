@@ -71,6 +71,7 @@ public static class LuaBinder
 			case "TransformWrap": TransformWrap.Register(L); break;
 			case "TypeWrap": TypeWrap.Register(L); break;
 			case "UtilWrap": UtilWrap.Register(L); break;
+			case "WWWFormWrap": WWWFormWrap.Register(L); break;
 			case "WWWWrap": WWWWrap.Register(L); break;
 		}
 	}
